@@ -1,0 +1,64 @@
+.nba{
+	width: 400px;
+	height: 380px;
+	border:3px  white solid;
+	background-image: url('images/az.jpg');
+	float: right;
+	margin-top: 80px;
+}
+.head {
+	height: 20px;
+	width: 70px;
+	background-color: yellow;
+	float: right;
+}
+.movie img{
+    width: 400px;
+    height: 222px;
+}
+.movie{
+	width: 400px;
+	border:3px  gray solid;
+	float: left;
+}
+h3{
+	color: blue;
+}
+h4{
+	color: white;
+}
+.top{
+	height: 40px;
+	width: 1350px;
+	background-color: pink;
+}
+.music{
+	width: 400px;
+	border:3px  gray solid;
+	margin-left: 450px;
+}
+.music img{
+    width: 400px;
+    height: 240px;
+}
+.photograph{
+	width: 400px;
+	border:none;
+    float: right;
+}
+.photograph img{
+    width: 400px;
+    height: 400px;
+}
+.pink{
+	background-color: pink;
+}
+.book img{
+     width: 400px;
+    height: 400px;
+}
+.book{
+	width: 400px;
+	border:3px  gray solid;
+	margin-left: 450px;
+}

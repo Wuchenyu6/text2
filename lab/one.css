@@ -1,0 +1,15 @@
+.daohang{
+	position: relative;
+	left:100px; 
+	top:200px;
+	opacity: 0.6;
+width:180px;
+font-weight:bold;
+font-size:30px;
+font-family:fantasy;
+
+color:#0000FF;
+text-align:center;
+text-decoration:none;
+text-transform:uppercase;
+}

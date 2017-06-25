@@ -1,0 +1,67 @@
+img{
+	width: 200px;
+	height: 200px;
+	opacity: 1;
+}
+.images{
+	float: left;
+	border:1px gray solid;
+	margin-right: 0px;
+    color: blue;
+    width: 1350px;
+    height: 200px;
+
+}
+
+.desc{
+	height:20px;
+	text-align: center;
+	font-family: '楷体'
+	font-weight:bold;
+	color: yellow;
+}
+.images a:hover img {
+        border: 2px solid #333333;
+}
+.logo{
+	background-color: blue;
+	text-align:center;
+	width:1350px; 
+	height:120px;
+}
+.link-china{
+    font-size: 60px;
+    font-weight: bold;
+    color: yellow;
+    text-decoration: none;
+    font-family: '宋体';
+}
+.logo img{
+	width: 170px;
+	height: 120px;
+	float:left; 
+}
+.button{
+	background-color:yellow;
+	font-weight: bold;
+	width: 170px;
+	float: left;
+}
+.nbastore-menu{
+	color: red;
+	font-size: 20px;
+}
+p{
+	color: blue;
+	font-size:28px;
+}
+.name{
+	font-weight: bold;
+
+}
+.curry{
+	background-color: gray;
+}
+.one{
+	float: left;
+}
